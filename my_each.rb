@@ -1,3 +1,3 @@
 def my_each(word)
-  # code here
+  while 
 end
