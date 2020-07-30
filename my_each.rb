@@ -7,6 +7,6 @@ def my_each(word)
  end
  word
  else
-   "No block was given"
-   
+   "no block was given"
+  end 
 end
